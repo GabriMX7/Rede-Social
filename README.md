@@ -23,7 +23,7 @@ git clone
 ```
 
 # Nex-Pass
-![](Image.png)
+![]()
 
 # Warning
-***This tool is only for educational purpose. We are not responsible for any misuse or illegal activities.***
+***Esta ferramenta é apenas para fins educacionais.  Não somos responsáveis por qualquer uso indevido ou atividades ilegais..***
