@@ -1,24 +1,26 @@
 # Social do G7 v1.1
+aplicativo beta..
 
 # Tested on
 - Termux
 
 # Installation
-* apt-get update -y
 
-* apt-get upgrade -y
+```bash
+apt-get update -y
+```
 
-* pkg install python -y
+```bash
+apt-get upgrade -y
+```
 
-* pkg install python3 -y
+```bash
+pkg install git -y
+```
 
-* pkg install git -y
-
-* git clone 
-
-* cd Nex-Pass
-
-* python3 nex-pass.py
+```bash
+git clone 
+```
 
 # Nex-Pass
 ![](Image.png)
