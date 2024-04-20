@@ -7,19 +7,27 @@ aplicativo beta..
 # Installation
 
 ```bash
+
 apt-get update -y
+
 ```
 
 ```bash
+
 apt-get upgrade -y
+
 ```
 
 ```bash
+
 pkg install git -y
+
 ```
 
 ```bash
-git clone 
+
+git clone https://github.com/GabriMX7/Rede-Social.git
+
 ```
 
 # Nex-Pass
