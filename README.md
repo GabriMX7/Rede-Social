@@ -31,7 +31,7 @@ git clone https://github.com/GabriMX7/Rede-Social.git
 ```
 
 # Nex-Pass
-![](image1.png)
+![]()
 
 # Warning
 ***Esta ferramenta é apenas para fins educacionais.  Não somos responsáveis por qualquer uso indevido ou atividades ilegais..***
