@@ -1,4 +1,4 @@
-# Social do G7 v1.1
+# Social do G7
 aplicativo beta..
 
 # Tested on
